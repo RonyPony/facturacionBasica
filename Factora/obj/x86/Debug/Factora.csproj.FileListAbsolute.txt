@@ -1,0 +1,52 @@
+C:\Users\jose_\Desktop\PROGRAMA PERSONALES\Factora\Factora\bin\Debug\Factora.exe
+C:\Users\jose_\Desktop\PROGRAMA PERSONALES\Factora\Factora\bin\Debug\Factora.pdb
+C:\Users\jose_\Desktop\PROGRAMA PERSONALES\Factora\Factora\obj\x86\Debug\Factora.Form1.resources
+C:\Users\jose_\Desktop\PROGRAMA PERSONALES\Factora\Factora\obj\x86\Debug\Factora.Properties.Resources.resources
+C:\Users\jose_\Desktop\PROGRAMA PERSONALES\Factora\Factora\obj\x86\Debug\Factora.csproj.GenerateResource.Cache
+C:\Users\jose_\Desktop\PROGRAMA PERSONALES\Factora\Factora\obj\x86\Debug\Factora.exe
+C:\Users\jose_\Desktop\PROGRAMA PERSONALES\Factora\Factora\obj\x86\Debug\Factora.pdb
+C:\Users\jose_\Desktop\PROGRAMA PERSONALES\Factora\Factora\obj\x86\Debug\Factora.login.resources
+C:\Users\Henry Marte\Desktop\Factora\Factora\obj\x86\Debug\Factora.Form1.resources
+C:\Users\Henry Marte\Desktop\Factora\Factora\obj\x86\Debug\Factora.login.resources
+C:\Users\Henry Marte\Desktop\Factora\Factora\obj\x86\Debug\Factora.csproj.GenerateResource.Cache
+C:\Users\Henry Marte\Desktop\Factora\Factora\obj\x86\Debug\Factora.cliente.resources
+C:\Users\Henry Marte\Desktop\Factora\Factora\obj\x86\Debug\Factora.Producto.resources
+C:\Users\Henry Marte\Desktop\Factora\Factora\obj\x86\Debug\Factora.AgregarUsuarios.resources
+C:\Users\Henry Marte\Desktop\Factora\Factora\obj\x86\Debug\Factora.Usuarios.resources
+C:\Users\Henry Marte\Desktop\Factora\Factora\obj\x86\Debug\Factora.ClientesVer.resources
+C:\Users\Henry Marte\Desktop\Factora\Factora\obj\x86\Debug\Factora.Devoluciones.resources
+C:\Users\Henry Marte\Desktop\Factora\Factora\obj\x86\Debug\Factora.Menu.resources
+C:\Users\Henry Marte\Desktop\Factora\Factora\obj\x86\Debug\Factora.Compras.resources
+C:\Users\Henry Marte\Desktop\Factora\Factora\obj\x86\Debug\Factora.VerVentas.resources
+C:\Users\Henry Marte\Desktop\Factora\Factora\obj\x86\Debug\Factora.Inventario.resources
+C:\Users\Henry Marte\Desktop\Factora\Factora\obj\x86\Debug\Factora.VerCompras.resources
+C:\Users\Henry Marte\Desktop\Factora\Factora\obj\x86\Debug\Factora.Inicio.resources
+C:\Users\Henry Marte\Desktop\Factora\Factora\bin\Debug\Factura.exe
+C:\Users\Henry Marte\Desktop\Factora\Factora\bin\Debug\Factura.pdb
+C:\Users\Henry Marte\Desktop\Factora\Factora\obj\x86\Debug\Factura.Properties.Resources.resources
+C:\Users\Henry Marte\Desktop\Factora\Factora\obj\x86\Debug\Factura.exe
+C:\Users\Henry Marte\Desktop\Factora\Factora\obj\x86\Debug\Factura.pdb
+E:\proyectos de programacion\Factora\Factora\bin\Debug\Factura.exe.config
+E:\proyectos de programacion\Factora\Factora\bin\Debug\Factura.exe
+E:\proyectos de programacion\Factora\Factora\bin\Debug\Factura.pdb
+E:\proyectos de programacion\Factora\Factora\obj\x86\Debug\Factora.csproj.AssemblyReference.cache
+E:\proyectos de programacion\Factora\Factora\obj\x86\Debug\Factora.csproj.SuggestedBindingRedirects.cache
+E:\proyectos de programacion\Factora\Factora\obj\x86\Debug\Factora.AgregarUsuarios.resources
+E:\proyectos de programacion\Factora\Factora\obj\x86\Debug\Factora.cliente.resources
+E:\proyectos de programacion\Factora\Factora\obj\x86\Debug\Factora.ClientesVer.resources
+E:\proyectos de programacion\Factora\Factora\obj\x86\Debug\Factora.Compras.resources
+E:\proyectos de programacion\Factora\Factora\obj\x86\Debug\Factora.Devoluciones.resources
+E:\proyectos de programacion\Factora\Factora\obj\x86\Debug\Factora.Form1.resources
+E:\proyectos de programacion\Factora\Factora\obj\x86\Debug\Factora.Inicio.resources
+E:\proyectos de programacion\Factora\Factora\obj\x86\Debug\Factora.Inventario.resources
+E:\proyectos de programacion\Factora\Factora\obj\x86\Debug\Factora.login.resources
+E:\proyectos de programacion\Factora\Factora\obj\x86\Debug\Factora.Menu.resources
+E:\proyectos de programacion\Factora\Factora\obj\x86\Debug\Factora.Producto.resources
+E:\proyectos de programacion\Factora\Factora\obj\x86\Debug\Factura.Properties.Resources.resources
+E:\proyectos de programacion\Factora\Factora\obj\x86\Debug\Factora.Usuarios.resources
+E:\proyectos de programacion\Factora\Factora\obj\x86\Debug\Factora.VerCompras.resources
+E:\proyectos de programacion\Factora\Factora\obj\x86\Debug\Factora.VerVentas.resources
+E:\proyectos de programacion\Factora\Factora\obj\x86\Debug\Factora.csproj.GenerateResource.cache
+E:\proyectos de programacion\Factora\Factora\obj\x86\Debug\Factora.csproj.CoreCompileInputs.cache
+E:\proyectos de programacion\Factora\Factora\obj\x86\Debug\Factura.exe
+E:\proyectos de programacion\Factora\Factora\obj\x86\Debug\Factura.pdb
